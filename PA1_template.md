@@ -2,7 +2,7 @@
 title: "Course Project 1"
 author: "Juan Carlos Rodriguez Rojo"
 date: "10 de enero de 2016"
-output: pdf_document
+output: html_document
 ---
 # Introduction
 
